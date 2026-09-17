@@ -1,8 +1,6 @@
 ---
 layout: home
-title: Arduino Vidar
+title: Vidar's Arduino projects
 ---
-
-# Arduino Vidar
 
 {% include_relative README.md %}
